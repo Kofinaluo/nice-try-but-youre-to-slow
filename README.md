@@ -11,8 +11,6 @@ you can use it for your website
 Tested on IE 6 (Windows XP). Open idiot.html to start the sonic.
 You can use it for your website.
 
-http://kofinaluooo.000webhostapp.com/
-
 Contact: Discord = Kofinaluo#6859
 
 Click that button to download: 
